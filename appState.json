@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "MergeEditor.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 48
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -23,7 +23,7 @@
           "name": "MergeEditor"
         },
         "triggers": [],
-        "lastUpdated": 1600940207673
+        "lastUpdated": 1600940776135
       }
     },
     "openFiles": [
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1600940226917
+    "lastSave": 1600940805717
   },
   "VCS_STATE": {
     "provider": "GitHub",
