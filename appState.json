@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "8c09d93b-2d55-4ce4-acd4-a8e318a4e3e5": {
+        "id": "8c09d93b-2d55-4ce4-acd4-a8e318a4e3e5",
+        "parent": null,
+        "name": "MergeEditor.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "MergeEditor.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "MergeEditor"
+        },
+        "triggers": [],
+        "lastUpdated": 1600940207673
+      }
+    },
+    "openFiles": [
+      "8c09d93b-2d55-4ce4-acd4-a8e318a4e3e5"
+    ],
+    "currentFileId": "8c09d93b-2d55-4ce4-acd4-a8e318a4e3e5",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.3",
+    "projectName": "MergeEditor",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1600940226917
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "mergeeditor",
+      "url": "https://github.com/zgma-test/mergeeditor"
+    }
+  }
+}
